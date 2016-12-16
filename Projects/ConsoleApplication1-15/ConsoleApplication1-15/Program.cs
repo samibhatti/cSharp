@@ -19,7 +19,7 @@ namespace ConsoleApplication1_15
 
             while (tasks.Length > 0)
             {
-                int i = Task.WaitAny(tasks);
+                int i = Task.WaitAny(tasks); //wait for any task to finished before executing the next one.
                 Task<int> completedTask = tasks[i];
 
                 Console.WriteLine(completedTask.Result);
