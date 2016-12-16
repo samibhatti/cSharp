@@ -1,0 +1,6 @@
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-18\ConsoleApplication1-18\bin\Debug\ConsoleApplication1-18.exe.config
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-18\ConsoleApplication1-18\bin\Debug\ConsoleApplication1-18.exe
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-18\ConsoleApplication1-18\bin\Debug\ConsoleApplication1-18.pdb
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-18\ConsoleApplication1-18\obj\Debug\ConsoleApplication1-18.csprojResolveAssemblyReference.cache
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-18\ConsoleApplication1-18\obj\Debug\ConsoleApplication1-18.exe
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-18\ConsoleApplication1-18\obj\Debug\ConsoleApplication1-18.pdb
