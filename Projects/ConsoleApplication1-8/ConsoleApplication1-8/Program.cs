@@ -12,14 +12,14 @@ namespace ConsoleApplication1_8
         {
             Task t = Task.Run(() =>
             {
-                for (int x = 0; x < 100; x++)
+                for (int x = 0; x < 100000; x++)
                 {
                     Console.Write('*');
                 }
             });
 
             t.Wait();
-            Console.ReadKey();
+            //Console.ReadKey();
         }
 
     }
