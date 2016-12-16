@@ -1,0 +1,5 @@
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-11\ConsoleApplication1-11\bin\Debug\ConsoleApplication1-11.exe.config
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-11\ConsoleApplication1-11\bin\Debug\ConsoleApplication1-11.exe
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-11\ConsoleApplication1-11\bin\Debug\ConsoleApplication1-11.pdb
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-11\ConsoleApplication1-11\obj\Debug\ConsoleApplication1-11.exe
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\ConsoleApplication1-11\ConsoleApplication1-11\obj\Debug\ConsoleApplication1-11.pdb
