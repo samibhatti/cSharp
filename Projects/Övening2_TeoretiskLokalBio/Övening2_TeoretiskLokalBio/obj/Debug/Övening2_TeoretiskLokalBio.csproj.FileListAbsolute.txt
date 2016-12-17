@@ -4,3 +4,9 @@ c:\users\user\documents\visual studio 2015\Projects\Övening2_TeoretiskLokalBio\
 c:\users\user\documents\visual studio 2015\Projects\Övening2_TeoretiskLokalBio\Övening2_TeoretiskLokalBio\bin\Debug\Övening2_TeoretiskLokalBio.pdb
 c:\users\user\documents\visual studio 2015\Projects\Övening2_TeoretiskLokalBio\Övening2_TeoretiskLokalBio\obj\Debug\Övening2_TeoretiskLokalBio.exe
 c:\users\user\documents\visual studio 2015\Projects\Övening2_TeoretiskLokalBio\Övening2_TeoretiskLokalBio\obj\Debug\Övening2_TeoretiskLokalBio.pdb
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\Övening2_TeoretiskLokalBio\Övening2_TeoretiskLokalBio\bin\Debug\Övening2_TeoretiskLokalBio.exe.config
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\Övening2_TeoretiskLokalBio\Övening2_TeoretiskLokalBio\obj\Debug\Övening2_TeoretiskLokalBio.exe
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\Övening2_TeoretiskLokalBio\Övening2_TeoretiskLokalBio\obj\Debug\Övening2_TeoretiskLokalBio.pdb
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\Övening2_TeoretiskLokalBio\Övening2_TeoretiskLokalBio\bin\Debug\Övening2_TeoretiskLokalBio.exe
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\Övening2_TeoretiskLokalBio\Övening2_TeoretiskLokalBio\bin\Debug\Övening2_TeoretiskLokalBio.pdb
+C:\Users\samibhatti\Documents\GitHub\cSharp\Projects\Övening2_TeoretiskLokalBio\Övening2_TeoretiskLokalBio\obj\Debug\Övening2_TeoretiskLokalBio.csprojResolveAssemblyReference.cache
