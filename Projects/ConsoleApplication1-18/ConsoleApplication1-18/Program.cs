@@ -19,8 +19,7 @@ namespace ConsoleApplication1_18.Threads
             string result = DownloadContent().Result;
             Console.WriteLine(result);
             SpeechSynthesizer synth = new SpeechSynthesizer();
-            synth.Speak("Hello Zainab Fatima Inaya Hello Zainab Fatima  Hello Zainab  Zainab ");
-            //synth.Speak("Hello Zainab Fatima Inaya Hello Zainab Fatima  Hello Zainab  Zainab");
+           
             Console.ReadKey();
         }
 
